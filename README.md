@@ -54,8 +54,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandasafiqalfiansyah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 
-<hr/>
-<p>&nbsp;<img align="center" margin-top="30" src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
+
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
