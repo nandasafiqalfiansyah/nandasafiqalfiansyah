@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate frontend developer from Ponorogo</h3>
 
@@ -43,3 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en" alt="nandasafiqalfiansyah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&" alt="nandasafiqalfiansyah" /></p>
+
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rnandasafiqalfiansyah&&theme=xcode)](https://github.com/nandasafiqalfiansyah)
