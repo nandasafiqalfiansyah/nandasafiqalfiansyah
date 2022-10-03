@@ -1,8 +1,11 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
-<h3 align="center">A passionate frontend developer from Ponorogo</h3>
+<h3 align="center">A passionate front end developer from Ponorogo</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/21288216/aa802bce564442d381d5a0816febf0d1/eyJ3Ijo2MjB9/1.gif?token-time=1666051200&token-hash=9qXmJEB9pi_axpdctLQg3ssVm6AoG3irpSiOh0U9Oi8%3D">
+
+
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 
@@ -46,4 +49,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&" alt="nandasafiqalfiansyah" /></p>
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rnandasafiqalfiansyah&&theme=xcode)](https://github.com/nandasafiqalfiansyah)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nandasafiqalfiansyah&&theme=xcode)](https://github.com/nandasafiqalfiansyah)
