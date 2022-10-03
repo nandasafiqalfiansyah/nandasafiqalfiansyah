@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aliceitn.blogspot.com)
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate front end developer from Ponorogo</h3>
 
@@ -47,7 +47,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandasafiqalfiansyah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" margin-top="30" src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
