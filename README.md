@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Dicoding Academy**
 
-- 📝 I regularly write articles on [aliceitn.blogspot.com](aliceitn.blogspot.com)
+- 📝 I regularly write articles on [aliceitn.blogspot.com](https://aliceitn.blogspot.com)
 
 - 💬 Ask me about **Android, MEARN**
 
