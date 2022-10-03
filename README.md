@@ -4,7 +4,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/21288216/aa802bce564442d381d5a0816febf0d1/eyJ3Ijo2MjB9/1.gif?token-time=1666051200&token-hash=9qXmJEB9pi_axpdctLQg3ssVm6AoG3irpSiOh0U9Oi8%3D">
+<img align="right" alt="Coding" width="400" border-radius="50" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/21288216/aa802bce564442d381d5a0816febf0d1/eyJ3Ijo2MjB9/1.gif?token-time=1666051200&token-hash=9qXmJEB9pi_axpdctLQg3ssVm6AoG3irpSiOh0U9Oi8%3D">
 
 
 
