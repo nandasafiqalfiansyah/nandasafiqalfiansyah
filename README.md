@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://aliceitn.blogspot.com)
+[![MasterHead](![image](https://user-images.githubusercontent.com/101439204/193990643-fc909e8d-02c0-4ef7-b6d1-91d1025bf1c4.png)
+)](https://aliceitn.blogspot.com)
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate front end developer from Ponorogo</h3>
 
