@@ -1,15 +1,11 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKyFrin6qXP_uom_jq2Mgrb1LnIenT8b2NA2hQ2_-M12i-zB1PYHEGM0cm-lpQN8xCAPgZmxXt0lvHOVARHR38xx5Qs9wFVSisXQPIF_e-pUm70T_yoJ4eAlv4GqcK97ZeMz08hot65w5Jpg-L8C9AqFoVCYMBFW-S8VxdTKKqLRkDUynT_E5R-6sNg/w320-h180/web%20dev.gif)
-](https://aliceitn.blogspot.com)
 
+<img align="center" alt="Coding" width="100%" border-radius="50" src="https://i.pinimg.com/originals/d1/e7/ea/d1e7ea2ec87e31946a094ec66f66724d.gif">
 
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate front end developer from Ponorogo</h3>
 
 <br/>
 <br/>
-<img align="right" alt="Coding" width="400" border-radius="50" src="https://c10.patreonusercontent.com/4/patreon-media/p/post/21288216/aa802bce564442d381d5a0816febf0d1/eyJ3Ijo2MjB9/1.gif?token-time=1666051200&token-hash=9qXmJEB9pi_axpdctLQg3ssVm6AoG3irpSiOh0U9Oi8%3D">
-
-
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 
