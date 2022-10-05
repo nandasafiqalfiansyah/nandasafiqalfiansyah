@@ -1,5 +1,5 @@
-[![MasterHead](![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3DzGQkxllTAWSSmBxp_hNsD90Fg5sMf8ZKSwV-jdBxf5ZYzK8GOiT-MTf2m5cTRP3WIw1zCZxVUOi8FDnRc40dQ3F3R5FYZUtVvCrsSj9vakegaM3uMte2Uht2Z3x6lcHQDxuzDX6OauaDac4NhZil0UK5SxNQvZWy7TYsLRpQ3jgJdUhcMp4RjJzmw/s16000/%E2%80%94Pngtree%E2%80%94abstract%20modern%20neon%20frame%20background_1178251.jpg)
-)](https://aliceitn.blogspot.com)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKyFrin6qXP_uom_jq2Mgrb1LnIenT8b2NA2hQ2_-M12i-zB1PYHEGM0cm-lpQN8xCAPgZmxXt0lvHOVARHR38xx5Qs9wFVSisXQPIF_e-pUm70T_yoJ4eAlv4GqcK97ZeMz08hot65w5Jpg-L8C9AqFoVCYMBFW-S8VxdTKKqLRkDUynT_E5R-6sNg/w320-h180/web%20dev.gif)
+](https://aliceitn.blogspot.com)
 
 
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
