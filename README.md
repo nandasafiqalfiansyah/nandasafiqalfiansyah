@@ -1,5 +1,7 @@
-[![MasterHead](![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbKyFrin6qXP_uom_jq2Mgrb1LnIenT8b2NA2hQ2_-M12i-zB1PYHEGM0cm-lpQN8xCAPgZmxXt0lvHOVARHR38xx5Qs9wFVSisXQPIF_e-pUm70T_yoJ4eAlv4GqcK97ZeMz08hot65w5Jpg-L8C9AqFoVCYMBFW-S8VxdTKKqLRkDUynT_E5R-6sNg/s320/web%20dev.gif)
+[![MasterHead](![image](https://pin.it/7KNsGal)
 )](https://aliceitn.blogspot.com)
+
+
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate front end developer from Ponorogo</h3>
 
