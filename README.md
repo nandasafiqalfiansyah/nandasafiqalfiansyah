@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" border-radius="50" src="https://i.pinimg.com/originals/d1/e7/ea/d1e7ea2ec87e31946a094ec66f66724d.gif">
+[<img align="center" alt="Coding" width="100%" border-radius="50" src="https://i.pinimg.com/originals/d1/e7/ea/d1e7ea2ec87e31946a094ec66f66724d.gif">](https://aliceitn.blogspot.com)
 
 <h1 align="center">Hi 👋, I'm Nanda Safiq Alfiansyah</h1>
 <h3 align="center">A passionate front end developer from Ponorogo</h3>
