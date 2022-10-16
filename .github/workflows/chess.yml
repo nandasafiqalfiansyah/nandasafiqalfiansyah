@@ -69,7 +69,7 @@ jobs:
 
           def valid_new_game_request(game)
             '${{ github.event.issue.title }}'.split('|')&.second.to_s == 'new' &&
-            (ENV.fetch('EVENT_USER_LOGIN') == 'timburgan' || game&.over?)
+            (ENV.fetch('EVENT_USER_LOGIN') == 'nandasafiqalfiansyah' || game&.over?)
           end
 
           # Authenticate using GITHUB_TOKEN
@@ -184,9 +184,9 @@ jobs:
               i = 0
               issues&.each do |issue|
                 break if issue.title.start_with? 'chess|new'
-                if issue.title.start_with?('chess|move|') && ENV.fetch('REPOSITORY') == 'timburgan/timburgan'
+                if issue.title.start_with?('chess|move|') && ENV.fetch('REPOSITORY') == 'nandasafiqalfiansyah/nandasafiqalfiansyah'
                   if issue.user.login == ENV.fetch('EVENT_USER_LOGIN')
-                    comment_text = "@#{ENV.fetch('EVENT_USER_LOGIN')} Slow down! You _just_ moved, so can't immediately take the next turn. Invite a friend to take the next turn! [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+I+just+moved.+You+have+the+next+move+at+https://github.com/timburgan)"
+                    comment_text = "@#{ENV.fetch('EVENT_USER_LOGIN')} Slow down! You _just_ moved, so can't immediately take the next turn. Invite a friend to take the next turn! [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+I+just+moved.+You+have+the+next+move+at+https://github.com/nandasafiqalfiansyah)"
                     error_notification(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), 'confused', comment_text, e)
                     exit(0)
                   end
@@ -242,7 +242,7 @@ jobs:
                     game_stats[:end_time] = issue.created_at
                   end
                   game_stats[:moves] += 1
-                  if ENV.fetch('REPOSITORY') == 'timburgan/timburgan'
+                  if ENV.fetch('REPOSITORY') == 'nandasafiqalfiansyah/nandasafiqalfiansyah'
                     game_stats[:players].push "@#{issue.user.login}"
                   else
                     game_stats[:players].push "#{issue.user.login}"
@@ -251,19 +251,19 @@ jobs:
                 end
                 game_stats[:players] = game_stats[:players]&.uniq
                 hours = (game_stats[:start_time] - game_stats[:end_time]).to_i.abs / 3600
-                @octokit.add_comment(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), "That's game over! Thank you for playing that chess game. That game had #{game_stats[:moves]} moves, #{game_stats[:players]&.length} players, and went for #{hours} hours. Let's play again at https://github.com/timburgan.\n\nPlayers that game: #{game_stats[:players].join(', ')}")
+                @octokit.add_comment(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), "That's game over! Thank you for playing that chess game. That game had #{game_stats[:moves]} moves, #{game_stats[:players]&.length} players, and went for #{hours} hours. Let's play again at https://github.com/nandasafiqalfiansyah.\n\nPlayers that game: #{game_stats[:players].join(', ')}")
               end
           end
 
 
 
-          @octokit.add_comment(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), "@#{ENV.fetch('EVENT_USER_LOGIN')} Done. View back at https://github.com/timburgan\n\nAsk a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+I+just+moved.+You+have+the+next+move+at+https://github.com/timburgan)")          
+          @octokit.add_comment(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'), "@#{ENV.fetch('EVENT_USER_LOGIN')} Done. View back at https://github.com/nandasafiqalfiansyah\n\nAsk a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+I+just+moved.+You+have+the+next+move+at+https://github.com/nandasafiqalfiansyah)")          
           @octokit.close_issue(ENV.fetch('REPOSITORY'), ENV.fetch('EVENT_ISSUE_NUMBER'))
 
 
 
           #
-          # Update timburgan/timburgan/README.md
+          # Update nandasafiqalfiansyah/nandasafiqalfiansyah README.md
           # ---------------------------------------
 
           # visually represent the board
@@ -419,7 +419,7 @@ jobs:
 
           new_readme.concat <<~HTML
 
-            Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/timburgan)
+            Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/nandasafiqalfiansyah)
 
             **How this works**
 
@@ -427,7 +427,7 @@ jobs:
 
             **Notice a problem?**
 
-            Raise an [issue](https://github.com/#{ENV.fetch('REPOSITORY')}/issues), and include the text _cc @timburgan_.
+            Raise an [issue](https://github.com/#{ENV.fetch('REPOSITORY')}/issues), and include the text _cc @aliceit7_.
 
             **Last few moves, this game**
 
