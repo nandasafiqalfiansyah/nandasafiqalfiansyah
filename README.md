@@ -77,13 +77,6 @@
 | **H7** | [H5](https://github.com/nandasafiqalfiansyah/nandasafiqalfiansyah/issues/new?title=chess%7Cmove%7Ch7h5%7C25991&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) , [H6](https://github.com/nandasafiqalfiansyah/nandasafiqalfiansyah/issues/new?title=chess%7Cmove%7Ch7h6%7C25991&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |   
 | **H8** | [G8](https://github.com/nandasafiqalfiansyah/nandasafiqalfiansyah/issues/new?title=chess%7Cmove%7Ch8g8%7C25991&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.) |
     
-    
-Ask a friend to take the next move: [Share on Twitter...](https://twitter.com/share?text=I'm+playing+chess+on+a+GitHub+Profile+Readme!+Can+you+please+take+the+next+move+at+https://github.com/nandasafiqalfiansyah)
-
-**How this works**
-
-When you click a link, it opens a GitHub Issue with the required pre-populated text. Just push "Create New Issue". That will trigger a [GitHub Actions](https://github.blog/2020-07-03-github-action-hero-casey-lee/#getting-started-with-github-actions) workflow that'll update my GitHub Profile _README.md_ with the new state of the board.
-
 
 <br/>
 <hr/>    
