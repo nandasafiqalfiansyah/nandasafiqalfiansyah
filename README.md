@@ -7,7 +7,6 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 <p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
