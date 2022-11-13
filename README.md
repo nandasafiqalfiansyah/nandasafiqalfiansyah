@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **<a href="">Dicoding Academy </a>,<a href=""> cisco academy </a>**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 📝 I regularly write articles on <a href="https://www.aliceitn.eu.org">aliceitn.eu.org </a>
+- 📝 I regularly write articles on <a href="https://alicdev.blogspot.com/">alicdev</a>
 
 - 📫 How to reach me **nandasafiqalfiansyah@gmail.com**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
