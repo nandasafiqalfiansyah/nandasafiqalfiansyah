@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on <a href="https://alicdev.blogspot.com/">alicdev</a>
 
-- 📫 How to reach me **nandasafiqalfiansyah@gmail.com**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+- 📫 How to reach me **--private--**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 - 📄 Know about my experiences [https://replit.com/@nandasafiq](https://replit.com/@nandasafiq)
 
