@@ -81,7 +81,7 @@
 <hr/>    
 <br/>
     
- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nandasafiqalfiansyah&&theme=xcode)](https://github.com/nandasafiqalfiansyah)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandasafiqalfiansyah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
