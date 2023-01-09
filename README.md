@@ -25,8 +25,11 @@
 - 📫 How to reach me **--private--**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 - 📄 Know about my experiences [https://replit.com/@nandasafiq](https://replit.com/@nandasafiq)
+    
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
+    
+    
 <br/>
 
 ### Blogs posts
@@ -82,9 +85,8 @@
 <br/>
     
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandasafiqalfiansyah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&locale=en&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
+
+
     
     
     
