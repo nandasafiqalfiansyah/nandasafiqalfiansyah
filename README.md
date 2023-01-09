@@ -12,11 +12,19 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 <br>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
+<br/>
+<h2 align="left">about me:</h2>
+<p>
+</p><p style="text-indent: 45px;,text-align:justify;">hai kenapa saya membuat tentang saya ini dengan bahasa indonesia karena saya dari indonrsia saya juga membuat banyak sekali projec html maupun css dan saya mulai belajar javascrip dari awal di kampus saya banyak sekali orang kaya dan mampu dalam finasial di sisi lain saya hanyalah orang yang selalu belajar belajar dan belajar tanpa tahu kalau sukses bukanlah hanya dari ngoding tapi setelah saya belajar saya menjadi hobi dalam memecahkan masalah walau banyak yang bilang bahwa buat apa saya terus belajar tapi karena emang hobi saya jadi saya senang sengan hal ini.</p>
+<p style="text-indent: 45px;">alasan kenapa saya membuat about atau tentang saya ini karena banyak sekali orang yang tidak tahu siapa saya dan banyak sekali orang yang hanya melihat saya dari fisik maupun finansial yang pada dasarnya sangat tidak saya suka.</p>
+<p style="text-indent: 45px;">menurut saya kuliah bukan hanya ajang untuk bersaing tapi ada banyak bahkan ada di sekitar kita teman yang memiliki  kepribadian beragam akan tetapi hal itu juga yang membuat saya harus berhati hati dalam begaul semoga pertemanan di perkuliahan dapat jadi yang pertama dan selalu terjalin tanpa niat apapun dan menjadi saling membantu sesama</p>
+<p style="text-indent: 45px;">contohlah padi makin berisi makin merunduk diam tak berkata tumbuh dengan sendiri berkat sedikit pupuk dapat panen dengan hasil yang maksimal tapi padi butuh air air yang mengalir dari hulu ke hilir tapi semua itu juga bisa di ibaratkan ilmu sesuatu yang berlebihan adalah hal yang tidak baik tapi sesuatu yang di jalani dengan ikhlas adalah yang bisa membuat seseorang jadi lebih baik </p>
+<h2 align="left">my experience:</h2>
 
 - 🔭 <em>Software Enginner at <a href="https://r.search.yahoo.com/_ylt=AwrOuYVyuUpjqdMWMbBXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZANMT0NVSTA1NF8xBHNlYwNzcg--/RV=2/RE=1665870322/RO=10/RU=https%3a%2f%2fumpo.ac.id%2f/RK=2/RS=AvRI8Y5NO3xLAikmlPKZTvc6dJQ-">University of muhammadiyah ponorogo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> 
 
-- 🌱 I’m currently learning **<a href="">Dicoding Academy </a>,<a href=""> cisco academy </a>**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🌱 I’m currently learning **<a href="">Dicoding Academy </a>,<a href="www.dicoding.com"> cisco academy </a>**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 📝 I regularly write articles on <a href="https://alicdev.blogspot.com/">alicdev</a>
 
@@ -25,7 +33,7 @@
 - 📄 Know about my experiences [https://replit.com/@nandasafiq](https://replit.com/@nandasafiq)
     
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
+
     
     
 <br/>
