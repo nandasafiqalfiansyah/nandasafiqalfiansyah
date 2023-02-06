@@ -15,6 +15,8 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 <br/>
 <h2 align="left">about me:</h2>
+
+<button type="button"> TEKAN TOMBOL INI<button>
 <p>
 </p><p style="text-indent: 45px;,text-align:justify;">hai kenapa saya membuat tentang saya ini dengan bahasa indonesia karena saya dari indonesia saya juga membuat banyak sekali projec html maupun css dan saya mulai belajar javascrip dari awal di kampus saya banyak sekali orang kaya dan mampu dalam finasial di sisi lain saya hanyalah orang yang selalu belajar belajar dan belajar tanpa tahu kalau sukses bukanlah hanya dari ngoding tapi setelah saya belajar saya menjadi hobi dalam memecahkan masalah walau banyak yang bilang bahwa buat apa saya terus belajar tapi karena emang hobi saya jadi saya senang dengan hal ini.</p>
 <p style="text-indent: 45px;">alasan kenapa saya membuat about atau tentang saya ini karena banyak sekali orang yang tidak tahu siapa saya dan banyak sekali orang yang hanya melihat saya dari fisik maupun finansial yang pada dasarnya sangat tidak saya suka.</p>
