@@ -14,10 +14,6 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
 <br/>
-<h2 align="left">about me:</h2>
-
-    
-    
 <br/>
 <h2 align="left">my experience:</h2>
 
