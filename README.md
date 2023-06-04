@@ -16,4 +16,4 @@
 <br/>
 <h2 align="left">my experience:</h2>
 
-<p align = "center" ><a href="nandasafiqalfiansyah@gmail.com">Email busines</a></p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
+<p align = "center" ><a href="nandasafiqalfiansyah@gmail.com">Email busines</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></p>
