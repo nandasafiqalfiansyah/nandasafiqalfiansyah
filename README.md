@@ -1,9 +1,5 @@
 ![Snake animation](https://github.com/nandasafiqalfiansyah/nandasafiqalfiansyah/blob/output/github-contribution-grid-snake.svg)
 
-src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
-
-
-
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandasafiqalfiansyah&&theme=tokyonight" alt="nandasafiqalfiansyah" /></p>
