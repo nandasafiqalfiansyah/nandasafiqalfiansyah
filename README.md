@@ -6,3 +6,6 @@
 
 
 <p align = "center" ><a href="mailto:nandasafiqalfiansyah@gmail.com">Email busines</a><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"></p>
+
+
+[![BANGKIT 2023](https://i.ytimg.com/vi/IvvysRejWJg/maxresdefault.jpg)](https://youtu.be/IvvysRejWJg)
