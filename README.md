@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/nandasafiqalfiansyah/nandasafiqalfiansyah/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center" > <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 <br>
