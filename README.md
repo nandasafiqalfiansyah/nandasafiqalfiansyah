@@ -20,4 +20,4 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/nandasafiqalfiansyah/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/nanda-safiq-alfiansyah-0a758425b/">LinkedIn</a>
