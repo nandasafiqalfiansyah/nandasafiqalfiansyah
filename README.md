@@ -18,6 +18,3 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandasafiqalfiansyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-- <a href="https://www.linkedin.com/in/nanda-safiq-alfiansyah-0a758425b/">LinkedIn</a>
