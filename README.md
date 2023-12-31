@@ -22,3 +22,8 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </a>
 </p>
 </details>
+<details>
+<summary><b>My Github trophy</b><i>(Click to expand!)</i></summary>
+<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=nandasafiqalfiansyah&theme=onedark)](https://github.com/nandasafiqalfiansyah/github-profile-trophy)
+</details>
