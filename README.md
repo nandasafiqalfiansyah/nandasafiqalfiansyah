@@ -28,10 +28,5 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </p>
 </details>
 
-<details>
-<summary><b>Coming Soon </b><i>(Click to expand!)</i></summary>
-<br/>
-
-</details>
 
 
