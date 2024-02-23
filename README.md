@@ -28,5 +28,9 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </p>
 </details>
 
+<details>
+<summary><b>My Github Statisic</b><i>(Click to expand!)</i></summary>
+<a>❤️</a>
+</details>
 
 
