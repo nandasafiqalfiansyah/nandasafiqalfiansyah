@@ -29,8 +29,10 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </details>
 
 <details>
-<summary><b>My Github Statisic</b><i>(Click to expand!)</i></summary>
-<a></a>
+<summary><b>My Project Link</b><i>(Click to expand!)</i></summary>
+  <hr>
+<a href="https://dummyapi.ndav.my.id/">https://dummyapi.ndav.my.id/</a>
+
 </details>
 
 
