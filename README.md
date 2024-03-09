@@ -34,7 +34,6 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
   <hr>
   |----|
 |<a href="https://dummyapi.ndav.my.id/">https://dummyapi.ndav.my.id/</a>|
-|<a href="https://dummyapi.ndav.my.id/">https://dummyapi.ndav.my.id/</a>|
 </details>
 
 
