@@ -14,7 +14,7 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </p>
 <br>
 
-### suport me😊...
+### suport me
 <a href="https://www.buymeacoffee.com/nandasafiqx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
