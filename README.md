@@ -26,6 +26,9 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandasafiqalfiansyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandasafiqalfiansyah" alt="nandasafiqalfiansyah" /></a> </p>
+
 </p>
 </details>
 
