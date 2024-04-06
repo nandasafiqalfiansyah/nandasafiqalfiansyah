@@ -1,6 +1,6 @@
 
 ### Halo semua! 
-Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript , golang and make it the main language in creating a project.
 <p> <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 
 ### Tech Stack
