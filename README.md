@@ -15,8 +15,6 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </p>
 
 
-
-
 <details>
 <summary><b>My Github Statisic</b><i>(Click to expand!)</i></summary>
 <br/>
@@ -27,7 +25,7 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </a>
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandasafiqalfiansyah" alt="nandasafiqalfiansyah" /></a> </p>
-<p>------</p>
+<p>-------</p>
 </p>
 </details>
 
