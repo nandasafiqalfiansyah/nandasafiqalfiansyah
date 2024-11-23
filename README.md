@@ -3,6 +3,10 @@
 Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript , golang and make it the main language in creating a project.
 <p> <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 
+### Suport me
+[<img src="https://button.ibnux.net/trakteer/donate.png" width="128">](https://trakteer.id/aejxjrcin2yochdwyugp/tip)
+
+
 ### Tech Stack
 <p>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -23,9 +27,6 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nandasafiqalfiansyah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandasafiqalfiansyah&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandasafiqalfiansyah" alt="nandasafiqalfiansyah" /></a> </p>
-<p>------</p>
 </p>
 </details>
 
