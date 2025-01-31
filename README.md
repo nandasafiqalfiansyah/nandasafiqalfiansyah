@@ -8,8 +8,8 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,go,ts,php,net,laravel,express,fastapi,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,go,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,net,laravel,express,fastapi,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,vim)](https://skillicons.dev)
 
 <br/>
