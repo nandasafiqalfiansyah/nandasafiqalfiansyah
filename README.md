@@ -4,7 +4,7 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 <p> <img src="https://komarev.com/ghpvc/?username=nandasafiqalfiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="nandasafiqalfiansyah" /> </p>
 
 ### Suport me
-[![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://saweria.co/nopwe)
+[![Saweria](https://img.shields.io/badge/-SAWERIA-orange?style=for-the-badge)](https://saweria.co/podev)
 
 
 ### Tech Stack
