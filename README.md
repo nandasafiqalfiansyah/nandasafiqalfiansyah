@@ -12,6 +12,14 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,net,laravel,express,fastapi,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,vim,apple)](https://skillicons.dev)
 
+### Interactive Code Zone
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&width=700&lines=%24+whoami+%E2%86%92+Nanda+Safiq+Alfiansyah;%24+stack+%E2%86%92+Web+%7C+Mobile+%7C+Cloud;%24+mode+%E2%86%92+build%2C+ship%2C+repeat" alt="Mac style typing terminal" />
+</p>
+
+[![Open in StackBlitz](https://img.shields.io/badge/Open%20Interactive%20Code%20in-StackBlitz-1269D3?style=for-the-badge&logo=stackblitz&logoColor=white)](https://stackblitz.com/)
+[![Open in CodePen](https://img.shields.io/badge/Open%20Frontend%20Lab-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
+
 <br/>
 <details>
 <summary><b>My Github Statisic</b><i>(Click to expand!)</i></summary>
@@ -23,4 +31,3 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </a>
 </p>
 </details>
-
