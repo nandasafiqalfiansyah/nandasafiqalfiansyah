@@ -12,16 +12,6 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,net,laravel,express,fastapi,html,css&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,vim,apple)](https://skillicons.dev)
 
-### Interactive Code Zone
-```bash
-● ● ●  terminal
-
-$ whoami
-Nanda Safiq Alfiansyah
-
-$ focus --today
-build • ship • repeat
-```
 <br/>
 <details>
 <summary><b>My Github Statisic</b><i>(Click to expand!)</i></summary>
