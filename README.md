@@ -10,7 +10,7 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,go,php)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,net,laravel,express,fastapi,html,css&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter,git,kubernetes,docker,c,vim,apple)](https://skillicons.dev)
 
 <br/>
 <details>
@@ -23,5 +23,4 @@ Perkenalkan nama saya **Nanda Safiq alfiansyah** An independent Software Enginee
 </a>
 </p>
 </details>
-
 
